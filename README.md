@@ -1,2 +1,1 @@
-# Artificial_Intelligence
-Learning Path
+# Generative AI
